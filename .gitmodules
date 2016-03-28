@@ -1,0 +1,12 @@
+[submodule "Programming_1-2-courses"]
+	path = Programming_1-2-courses
+	url = git://github.com/romantymchyshyn/Programming_1-2-courses.git
+[submodule "SysProgLabs"]
+	path = SysProgLabs
+	url = git://github.com/romantymchyshyn/SysProgLabs.git
+[submodule "NumericalMethods"]
+	path = NumericalMethods
+	url = git://github.com/romantymchyshyn/NumericalMethods.git
+[submodule "NumericalMethodsOfMathPhysics"]
+	path = NumericalMethodsOfMathPhysics
+	url = git://github.com/romantymchyshyn/NumericalMethodsOfMathPhysics.git
