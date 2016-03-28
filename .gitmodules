@@ -10,3 +10,6 @@
 [submodule "NumericalMethodsOfMathPhysics"]
 	path = NumericalMethodsOfMathPhysics
 	url = git://github.com/romantymchyshyn/NumericalMethodsOfMathPhysics.git
+[submodule "OperationSystems"]
+	path = OperationSystems
+	url = git://github.com/romantymchyshyn/OpSyst.git
