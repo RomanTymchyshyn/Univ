@@ -13,3 +13,6 @@
 [submodule "OperationSystems"]
 	path = OperationSystems
 	url = git://github.com/romantymchyshyn/OpSyst.git
+[submodule "PatternRecognition"]
+	path = PatternRecognition
+	url = git://github.com/RomanTymchyshyn/PatternRecognition
